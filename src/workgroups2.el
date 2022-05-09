@@ -1,4 +1,4 @@
-;;; workgroups2.el --- New workspaces for Emacs -*- coding: utf-8; lexical-binding: t -*-
+I;;; workgroups2.el --- New workspaces for Emacs -*- coding: utf-8; lexical-binding: t -*-
 ;;
 ;; Copyright (C) 2020 Chen Bin
 ;; Copyright (C) 2013-2014 Sergey Pashinin
@@ -239,7 +239,6 @@ and inactive mode-lines, so this feature defaults to off."
   "Hook run by `wg-switch-to-workgroup'."
   :type 'hook
   :group 'workgroups)
-(define-obsolete-variable-alias 'wg-switch-to-workgroup-hook 'wg-after-switch-to-workgroup-hook)
 
 (defcustom wg-pre-window-configuration-change-hook nil
   "Hook run before any function that triggers `window-configuration-change-hook'."
