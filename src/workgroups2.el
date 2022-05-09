@@ -1,4 +1,4 @@
-I;;; workgroups2.el --- New workspaces for Emacs -*- coding: utf-8; lexical-binding: t -*-
+;;; workgroups2.el --- New workspaces for Emacs -*- coding: utf-8; lexical-binding: t -*-
 ;;
 ;; Copyright (C) 2020 Chen Bin
 ;; Copyright (C) 2013-2014 Sergey Pashinin
